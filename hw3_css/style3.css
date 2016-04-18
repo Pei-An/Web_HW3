@@ -48,7 +48,7 @@ table {
 }
 
 .wrap{
-	font-family: Euphemia;
+	font-family: Arial;
 	width: 1264px;
 	margin: 0 auto;
 	background-image: url(../pic/bg_html.jpg);
@@ -286,7 +286,7 @@ h3{
 	float: left;
 	font-size: 14px;
 	width: 310px;
-	line-height: 25px;
+	line-height: 30px;
 	margin-bottom: 25px;
 }
 
