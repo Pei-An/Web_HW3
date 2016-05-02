@@ -512,6 +512,9 @@ input{
 	height: 780px;
 	padding: 30px 0px;
 }
+.content-side{
+	left: 20px;
+}
 .event{
 	width: 100%;
 }
@@ -547,7 +550,7 @@ h3{
 	font-size: 24px;
 }
 .list ul{
-	margin-left: 20px;
+	margin-left: 10%;
 }
 .list li{
 	font-size: 14px;
